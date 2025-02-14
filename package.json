@@ -1,0 +1,12 @@
+{
+  "name": "trainjs",
+  "version": "1.0.0",
+  "description": "Praticar JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "test:dev": "node --test --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
